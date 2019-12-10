@@ -1,66 +1,66 @@
-﻿var laavor_8_Sistine__efdt;var laavor_C_h_a_p__el_785_444;function LaavorContentNavigator(_41_cei_44ling,the_savabab_las_t_7777){var _d___88_avid_P=document.getElementById(_41_cei_44ling);var _543_doni_tondo=Centaurs_88_77_Battle_of_the();if(_d___88_avid_P!==undefined&&_d___88_avid_P!==null){if(laavor_C_h_a_p__el_785_444===undefined||laavor_C_h_a_p__el_785_444===null)
-{laavor_C_h_a_p__el_785_444=[];}
-if(the_savabab_las_t_7777!==undefined&&the_savabab_las_t_7777!==null){laavor_C_h_a_p__el_785_444[_41_cei_44ling]=the_savabab_las_t_7777;}
-else{laavor_C_h_a_p__el_785_444[_41_cei_44ling]=Centaurs_88_77_Battle_of_the()}
-var pieta_54gagagy;if(the_savabab_las_t_7777.elementItemHtml!==undefined&&the_savabab_las_t_7777.elementItemHtml!==null){pieta_54gagagy=the_savabab_las_t_7777.elementItemHtml;}else{pieta_54gagagy=_543_doni_tondo.elementItemHtml;}
-var _adam_88_crea_tion_rhrhrh_The=_d___88_avid_P.getElementsByTagName(pieta_54gagagy);if(_adam_88_crea_tion_rhrhrh_The!==undefined&&_adam_88_crea_tion_rhrhrh_The!==null){for(var _tfd_mose_1515=0;_tfd_mose_1515<_adam_88_crea_tion_rhrhrh_The.length;_tfd_mose_1515++){_adam_88_crea_tion_rhrhrh_The[_tfd_mose_1515].style.display="none";}
-var _1504_battle_of_Cascina=[];for(var _88_88_88_Crucifixion_the=0;_88_88_88_Crucifixion_the<_adam_88_crea_tion_rhrhrh_The.length;_88_88_88_Crucifixion_the++){_1504_battle_of_Cascina.push(_adam_88_crea_tion_rhrhrh_The[_88_88_88_Crucifixion_the].cloneNode(true));}
-laavor_8_Sistine__efdt=_1504_battle_of_Cascina;_Separation_of_Light_from_Darkness(_41_cei_44ling);}else{throw new Error("The elementItemHtml 'children' was not found inside the parent.");}}else{throw new Error("Item with idFather informed was not found.");}}
-function _Separation_of_Light_from_Darkness(The_Torment_of_Saint_Anthony){var _Madonna_of_Bruges=document.getElementById(The_Torment_of_Saint_Anthony);_1492_Madonna_of_the_Stairs(laavor_C_h_a_p__el_785_444[The_Torment_of_Saint_Anthony]);var _1501_The_Entombment=laavor_C_h_a_p__el_785_444[The_Torment_of_Saint_Anthony];var _1497_Bacchus=document.createElement("table");var _1509_Delphic_Sibyl=document.createElement("tr");var _1510_Creation_of_Eve=document.createElement("td");var Manchester_Madonna=document.createElement("td");var Tomb_of_Pope_Julius_2=document.createElement("td");var _1516_Dying_Slave=document.createElement("div");var The_Creation_of_the_Sun_Moon_and_Vegetation=document.createElement("span");var _1521_Risen_Christ=document.createElement("span");var _1515_Rebellious_Slave;var _1512_Prophet_Isaiah=document.createElement("span");var _1509_Drunkenness_of_Noah=document.createElement("span");var _1545_The_Conversion_of_Saul;var _1547_The_Deposition=Pitti_Tondo(The_Torment_of_Saint_Anthony);_1516_Dying_Slave.innerHTML=laavor_8_Sistine__efdt[0].innerHTML;_1516_Dying_Slave.id=_1547_The_Deposition;_1516_Dying_Slave.style.width=_1501_The_Entombment.widthContent.toString().replace("px","")+"px";_1516_Dying_Slave.style.height=_1501_The_Entombment.heigth.toString().replace("px","")+"px";if(laavor_C_h_a_p__el_785_444[The_Torment_of_Saint_Anthony].useContentBorder.toString()==="true")
-{_1516_Dying_Slave.style.border="solid 1px";_1516_Dying_Slave.style.borderColor=_1501_The_Entombment.borderColorContent;}
-if(laavor_C_h_a_p__el_785_444[The_Torment_of_Saint_Anthony].useExternalBorder.toString()==="true")
-{_Madonna_of_Bruges.style.border="solid 1px";_Madonna_of_Bruges.style.borderColor=_1501_The_Entombment.borderColorExternal;}
-if(laavor_C_h_a_p__el_785_444[The_Torment_of_Saint_Anthony].backgroundColorContent!=="none")
-{_1516_Dying_Slave.style.backgroundColor=_1501_The_Entombment.backgroundColorContent;}
-if(laavor_C_h_a_p__el_785_444[The_Torment_of_Saint_Anthony].backgroundColorExternal!=="none")
-{_Madonna_of_Bruges.style.backgroundColor=_1501_The_Entombment.backgroundColorExternal;}
-if(_1501_The_Entombment.imageArrowPrevious!=="none"&&_1501_The_Entombment.imageArrowNext!=="none"){_1515_Rebellious_Slave=document.createElement("img");_1515_Rebellious_Slave.src=_1501_The_Entombment.imageArrowPrevious;_1515_Rebellious_Slave.style.width=_1501_The_Entombment.imageArrowWidth.replace("px","")+"px";_1515_Rebellious_Slave.style.height=_1501_The_Entombment.imageArrowHeight.replace("px","")+"px";_1515_Rebellious_Slave.style.title=_1501_The_Entombment.imageArrowPreviousTitle;_1515_Rebellious_Slave.setAttribute("_1512_The_Sacrifice_of_Noah",-1);_1515_Rebellious_Slave.setAttribute("_1564_Rondanini_Pieta",_1547_The_Deposition);_1515_Rebellious_Slave.id=_1547_The_Deposition+"_"+"_1495_St_Proclus";_1515_Rebellious_Slave.style.verticalAlign="baseline";_1515_Rebellious_Slave.style.cursor="default";_1515_Rebellious_Slave.style.opacity=0.2;_1515_Rebellious_Slave.onclick=Buonarroti;_1510_Creation_of_Eve.appendChild(_1515_Rebellious_Slave);Manchester_Madonna.appendChild(_1516_Dying_Slave);_1545_The_Conversion_of_Saul=document.createElement("img");_1545_The_Conversion_of_Saul.src=_1501_The_Entombment.imageArrowNext;_1545_The_Conversion_of_Saul.style.width=_1501_The_Entombment.imageArrowWidth.replace("px","")+"px";_1545_The_Conversion_of_Saul.style.height=_1501_The_Entombment.imageArrowHeight.replace("px","")+"px";_1545_The_Conversion_of_Saul.style.title=_1501_The_Entombment.imageArrowNextTitle;_1545_The_Conversion_of_Saul.setAttribute("_1512_The_Sacrifice_of_Noah",1);_1545_The_Conversion_of_Saul.setAttribute("_1564_Rondanini_Pieta",_1547_The_Deposition);_1545_The_Conversion_of_Saul.id=_1547_The_Deposition+"_"+"_1531_Medici_Madonna";_1545_The_Conversion_of_Saul.style.verticalAlign="baseline";_1545_The_Conversion_of_Saul.style.cursor="pointer";_1545_The_Conversion_of_Saul.onclick=Simoni;Tomb_of_Pope_Julius_2.appendChild(_1545_The_Conversion_of_Saul);}
-else if(_1501_The_Entombment.imageArrowPrevious!=="none"&&_1501_The_Entombment.imageArrowNext==="none")
+﻿var lvCN01;var lvCN02;function LaavorContentNavigator(lvCN03,lvCN04){var lvCN05=document.getElementById(lvCN03);var lvCN06=lvCN28();if(lvCN05!==undefined&&lvCN05!==null){if(lvCN02===undefined||lvCN02===null)
+{lvCN02=[];}
+if(lvCN04!==undefined&&lvCN04!==null){lvCN02[lvCN03]=lvCN04;}
+else{lvCN02[lvCN03]=lvCN28();}
+var lvCN07;if(lvCN04.elementItemHtml!==undefined&&lvCN04.elementItemHtml!==null){lvCN07=lvCN04.elementItemHtml;}else{lvCN07=lvCN06.elementItemHtml;}
+var lvCN08=lvCN05.getElementsByTagName(lvCN07);if(lvCN08!==undefined&&lvCN08!==null){for(var lvCN09=0;lvCN09<lvCN08.length;lvCN09++){lvCN08[lvCN09].style.display="none";}
+var lvCN11=[];for(var lvCN10=0;lvCN10<lvCN08.length;lvCN10++){lvCN11.push(lvCN08[lvCN10].cloneNode(true));}
+lvCN01=lvCN11;lvCN12(lvCN03);}else{throw new Error("The elementItemHtml 'children' was not found inside the parent.");}}else{throw new Error("Item with idFather informed was not found.");}}
+function lvCN12(lvCN03){var lvCN13=document.getElementById(lvCN03);lvCN51(lvCN02[lvCN03]);var lvCN14=lvCN02[lvCN03];var lvCN15=document.createElement("table");var lvCN16=document.createElement("tr");var lvCN17=document.createElement("td");var lvCN18=document.createElement("td");var lvCN19=document.createElement("td");var lvCN20=document.createElement("div");var lvCN21=document.createElement("span");var lvCN22=document.createElement("span");var lvCN23;var lvCN24=document.createElement("span");var lvCN25=document.createElement("span");var lvCN27;var lvCN26=lvCN30(lvCN03);lvCN20.innerHTML=lvCN01[0].innerHTML;lvCN20.id=lvCN26;lvCN20.style.width=lvCN14.widthContent.toString().replace("px","")+"px";lvCN20.style.heigth=lvCN14.heigth.toString().replace("px","")+"px";if(lvCN02[lvCN03].useContentBorder.toString()==="true")
+{lvCN20.style.border="solid 1px";lvCN20.style.borderColor=lvCN14.borderColorContent;}
+if(lvCN02[lvCN03].useExternalBorder.toString()==="true")
+{lvCN13.style.border="solid 1px";lvCN13.style.borderColor=lvCN14.borderColorExternal;}
+if(lvCN02[lvCN03].backgroundColorContent!=="none")
+{lvCN20.style.backgroundColor=lvCN14.backgroundColorContent;}
+if(lvCN02[lvCN03].backgroundColorExternal!=="none")
+{lvCN13.style.backgroundColor=lvCN14.backgroundColorExternal;}
+if(lvCN14.imageArrowPrevious!=="none"&&lvCN14.imageArrowNext!=="none"){lvCN23=document.createElement("img");lvCN23.src=lvCN14.imageArrowPrevious;lvCN23.style.width=lvCN14.imageArrowWidth.replace("px","")+"px";lvCN23.style.height=lvCN14.imageArrowHeight.replace("px","")+"px";lvCN23.style.title=lvCN14.imageArrowPreviousTitle;lvCN23.setAttribute("lvCN53",-1);lvCN23.setAttribute("lvCN54",lvCN26);lvCN23.id=lvCN26+"_"+"lvCN55";lvCN23.style.verticalAlign="center";lvCN23.style.cursor="default";lvCN23.style.opacity=0.2;lvCN23.onclick=lvCN29;lvCN17.appendChild(lvCN23);lvCN18.appendChild(lvCN20);lvCN27=document.createElement("img");lvCN27.src=lvCN14.imageArrowNext;lvCN27.style.width=lvCN14.imageArrowWidth.replace("px","")+"px";lvCN27.style.height=lvCN14.imageArrowHeight.replace("px","")+"px";lvCN27.style.title=lvCN14.imageArrowNextTitle;lvCN27.setAttribute("lvCN53",1);lvCN27.setAttribute("lvCN54",lvCN26);lvCN27.id=lvCN26+"_"+"lvCN56";lvCN27.style.verticalAlign="center";lvCN27.style.cursor="pointer";lvCN27.onclick=lvCN46;lvCN19.appendChild(lvCN27);}
+else if(lvCN14.imageArrowPrevious!=="none"&&lvCN14.imageArrowNext==="none")
 {throw new Error("imageArrowExpanded and imageArrowClosed are properties required for navigation.");}
-else if(_1501_The_Entombment.imageArrowPrevious==="none"&&_1501_The_Entombment.imageArrowNext!=="none")
+else if(lvCN14.imageArrowPrevious==="none"&&lvCN14.imageArrowNext!=="none")
 {throw new Error("imageArrowExpanded and imageArrowClosed are properties required for navigation.");}
 else{throw new Error("imageArrowExpanded and imageArrowClosed are properties required for navigation.");}
-_1497_Bacchus.appendChild(_1509_Delphic_Sibyl);_1509_Delphic_Sibyl.appendChild(_1510_Creation_of_Eve);_1509_Delphic_Sibyl.appendChild(Manchester_Madonna);_1509_Delphic_Sibyl.appendChild(Tomb_of_Pope_Julius_2);_1497_Bacchus.style.verticalAlign="center";_Madonna_of_Bruges.appendChild(_1497_Bacchus);_Madonna_of_Bruges.style.width=_1501_The_Entombment.widthExternal.toString().replace("px","")+"px";_Madonna_of_Bruges.style.heigth=_1501_The_Entombment.heigth.toString().replace("px","")+"px";}
-function Pitti_Tondo(Lodovico){"use strict";var Awakening_Slave="";var _1495_Angel="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";for(var i=0;i<15;i++)
-Awakening_Slave+=_1495_Angel.charAt(Math.floor(Math.random()*_1495_Angel.length));if(Lodovico!==undefined&&Lodovico!==null)
-{Awakening_Slave+="_"+Lodovico;}
-return Awakening_Slave;}
-String.prototype.laavorToInteger=function()
-{"use strict";var returnItem=parseInt(this);return returnItem;};function LaavorMoveToPrevious(){Buonarroti();}
-function LaavorMoveToNext(){Simoni();}
-function Buonarroti(){if(laavor_8_Sistine__efdt!==undefined&&laavor_8_Sistine__efdt!==null)
-{var _1542_Crucifix=this.getAttribute("_1564_Rondanini_Pieta");var _1520_Leda_and_the_Swan=this.getAttribute("_1512_The_Sacrifice_of_Noah").toString().laavorToInteger();if(_1520_Leda_and_the_Swan!==-1)
-{var _1512_Prophet_Jeremiah=document.getElementById(_1542_Crucifix);_1512_Prophet_Jeremiah.innerHTML="";_1512_Prophet_Jeremiah.innerHTML=laavor_8_Sistine__efdt[_1520_Leda_and_the_Swan].innerHTML;var Prophet_Jonah=_1520_Leda_and_the_Swan-1;this.setAttribute("_1512_The_Sacrifice_of_Noah",Prophet_Jonah);var _1512_Prophet_Daniel=document.getElementById(_1542_Crucifix+"_"+"_1531_Medici_Madonna");var Erythraean_Sibyl=_1512_Prophet_Daniel.getAttribute("_1512_The_Sacrifice_of_Noah").toString().laavorToInteger();Erythraean_Sibyl=Erythraean_Sibyl-1;_1512_Prophet_Daniel.setAttribute("_1512_The_Sacrifice_of_Noah",Erythraean_Sibyl);if(Prophet_Jonah===-1)
+lvCN15.appendChild(lvCN16);lvCN16.appendChild(lvCN17);lvCN16.appendChild(lvCN18);lvCN16.appendChild(lvCN19);lvCN15.style.verticalAlign="center";lvCN13.appendChild(lvCN15);lvCN13.style.width=lvCN14.widthExternal.toString().replace("px","")+"px";lvCN13.style.heigth=lvCN14.heigth.toString().replace("px","")+"px";}
+function lvCN30(lvCN38){"use strict";var lvCN39="";var lvCN47="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";for(var i=0;i<15;i++)
+lvCN39+=lvCN47.charAt(Math.floor(Math.random()*lvCN47.length));if(lvCN38!==undefined&&lvCN38!==null)
+{lvCN39+="_"+lvCN38;}
+return lvCN39;}
+String.prototype.lvCN52=function()
+{"use strict";var lvCN57=parseInt(this);return lvCN57;};function LaavorMoveToPrevious(){lvCN29();}
+function LaavorMoveToNext(){lvCN46();}
+function lvCN29(){if(lvCN01!==undefined&&lvCN01!==null)
+{var lvCN31=this.getAttribute("lvCN54");var lvCN32=this.getAttribute("lvCN53").toString().lvCN52();if(lvCN32!==-1)
+{var lvCN33=document.getElementById(lvCN31);lvCN33.innerHTML="";lvCN33.innerHTML=lvCN01[lvCN32].innerHTML;var lvCN34=lvCN32-1;this.setAttribute("lvCN53",lvCN34);var lvCN35=document.getElementById(lvCN31+"_"+"lvCN56");var lvCN36=lvCN35.getAttribute("lvCN53").toString().lvCN52();lvCN36=lvCN36-1;lvCN35.setAttribute("lvCN53",lvCN36);if(lvCN34===-1)
 {this.style.opacity=0.2;this.style.cursor="default";}
 else
 {this.style.opacity=1.0;this.style.cursor="pointer";}
-if(Erythraean_Sibyl===(laavor_8_Sistine__efdt.length))
-{_1512_Prophet_Daniel.style.opacity=0.2;_1512_Prophet_Daniel.style.cursor="default";}
+if(lvCN36===lvCN01.length)
+{lvCN35.style.opacity=0.2;lvCN35.style.cursor="default";}
 else
-{_1512_Prophet_Daniel.style.opacity=1.0;_1512_Prophet_Daniel.style.cursor="pointer";}}}}
-function Simoni(){if(laavor_8_Sistine__efdt!==undefined&&laavor_8_Sistine__efdt!==null)
-{var _1506_St_Matthew=this.getAttribute("_1564_Rondanini_Pieta");var New_Sacristy=this.getAttribute("_1512_The_Sacrifice_of_Noah").toString().laavorToInteger();if(New_Sacristy<laavor_8_Sistine__efdt.length)
-{var _1534_The_Genius_of_Victory=document.getElementById(_1506_St_Matthew);_1534_The_Genius_of_Victory.innerHTML="";_1534_The_Genius_of_Victory.innerHTML=laavor_8_Sistine__efdt[New_Sacristy].innerHTML;var _1496_Cupid=New_Sacristy+1;this.setAttribute("_1512_The_Sacrifice_of_Noah",_1496_Cupid);var _1510_Cumaean_Sibyl=document.getElementById(_1506_St_Matthew+"_"+"_1495_St_Proclus");var _1530_Crouching_Boy=_1510_Cumaean_Sibyl.getAttribute("_1512_The_Sacrifice_of_Noah").toString().laavorToInteger();_1530_Crouching_Boy=_1530_Crouching_Boy+1;_1510_Cumaean_Sibyl.setAttribute("_1512_The_Sacrifice_of_Noah",_1530_Crouching_Boy);if(_1496_Cupid===(laavor_8_Sistine__efdt.length))
+{lvCN35.style.opacity=1.0;lvCN35.style.cursor="pointer";}}}}
+function lvCN46(){if(lvCN01!==undefined&&lvCN01!==null)
+{var lvCN31=this.getAttribute("lvCN54");var lvCN40=this.getAttribute("lvCN53").toString().lvCN52();if(lvCN40<lvCN01.length)
+{var lvCN41=document.getElementById(lvCN31);lvCN41.innerHTML="";lvCN41.innerHTML=lvCN01[lvCN40].innerHTML;var lvCN43=lvCN40+1;this.setAttribute("lvCN53",lvCN43);var lvCN44=document.getElementById(lvCN31+"_"+"lvCN55");var lvCN45=lvCN44.getAttribute("lvCN53").toString().lvCN52();lvCN45=lvCN45+1;lvCN44.setAttribute("lvCN53",lvCN45);if(lvCN43===lvCN01.length)
 {this.style.opacity=0.2;this.style.cursor="default";}
 else
 {this.style.opacity=1.0;this.style.cursor="pointer";}
-if(_1530_Crouching_Boy===-1)
-{_1510_Cumaean_Sibyl.style.opacity=0.2;_1510_Cumaean_Sibyl.style.cursor="default";}
+if(lvCN45===-1)
+{lvCN44.style.opacity=0.2;lvCN44.style.cursor="default";}
 else
-{_1510_Cumaean_Sibyl.style.opacity=1.0;_1510_Cumaean_Sibyl.style.cursor="pointer";}}}}
-function _1492_Madonna_of_the_Stairs(_1509_David_and_Goliath){var _1530_Apollo=Centaurs_88_77_Battle_of_the();if(_1509_David_and_Goliath.backgroundColorContent===undefined||_1509_David_and_Goliath.backgroundColorContent===null){_1509_David_and_Goliath.backgroundColorContent=_1530_Apollo.backgroundColorContent;}
-if(_1509_David_and_Goliath.backgroundColorExternal===undefined||_1509_David_and_Goliath.backgroundColorExternal===null){_1509_David_and_Goliath.backgroundColorExternal=_1530_Apollo.backgroundColorExternal;}
-if(_1509_David_and_Goliath.borderColorContent===undefined||_1509_David_and_Goliath.borderColorContent===null){_1509_David_and_Goliath.borderColorContent=_1530_Apollo.borderColorContent;}
-if(_1509_David_and_Goliath.imageArrowPrevious===undefined||_1509_David_and_Goliath.imageArrowPrevious===null){_1509_David_and_Goliath.imageArrowPrevious=_1530_Apollo.imageArrowPrevious;}
-if(_1509_David_and_Goliath.imageArrowNext===undefined||_1509_David_and_Goliath.imageArrowNext===null){_1509_David_and_Goliath.imageArrowNext=_1530_Apollo.imageArrowNext;}
-if(_1509_David_and_Goliath.imageArrowWidth===undefined||_1509_David_and_Goliath.imageArrowWidth===null){_1509_David_and_Goliath.imageArrowWidth=_1530_Apollo.imageArrowWidth;}
-if(_1509_David_and_Goliath.imageArrowHeight===undefined||_1509_David_and_Goliath.imageArrowHeight===null){_1509_David_and_Goliath.imageArrowHeight=_1530_Apollo.imageArrowHeight;}
-if(_1509_David_and_Goliath.elementItemHtml===undefined||_1509_David_and_Goliath.elementItemHtml===null){_1509_David_and_Goliath.elementItemHtml=_1530_Apollo.elementItemHtml;}
-if(_1509_David_and_Goliath.useExternalBorder===undefined||_1509_David_and_Goliath.useExternalBorder===null){_1509_David_and_Goliath.useExternalBorder=_1530_Apollo.useExternalBorder;}
-if(_1509_David_and_Goliath.useContentBorder===undefined||_1509_David_and_Goliath.useContentBorder===null){_1509_David_and_Goliath.useContentBorder=_1530_Apollo.useContentBorder;}
-if(_1509_David_and_Goliath.borderColorExternal===undefined||_1509_David_and_Goliath.borderColorExternal===null){_1509_David_and_Goliath.borderColorExternal=_1530_Apollo.borderColorExternal;}
-if(_1509_David_and_Goliath.borderColorContent===undefined||_1509_David_and_Goliath.borderColorContent===null){_1509_David_and_Goliath.borderColorContent=_1530_Apollo.borderColorContent;}
-if(_1509_David_and_Goliath.widthContent===undefined||_1509_David_and_Goliath.widthContent===null){_1509_David_and_Goliath.widthContent=_1530_Apollo.widthContent;}
-if(_1509_David_and_Goliath.widthExternal===undefined||_1509_David_and_Goliath.widthExternal===null){_1509_David_and_Goliath.widthExternal=_1530_Apollo.widthExternal;}
-if(_1509_David_and_Goliath.heigth===undefined||_1509_David_and_Goliath.heigth===null){_1509_David_and_Goliath.heigth=_1530_Apollo.heigth;}}
-function Centaurs_88_77_Battle_of_the(){return{imageArrowPrevious:"images/previous.png",imageArrowNext:"images/next.png",imageArrowPreviousTitle:"Previous",imageArrowNextTitle:"Next",imageArrowWidth:"54px",imageArrowHeight:"50px",elementItemHtml:'div',useExternalBorder:true,useContentBorder:true,borderColorExternal:"DeepSkyBlue",borderColorContent:"DeepSkyBlue",backgroundColorContent:"none",backgroundColorExternal:"none",widthContent:"800px",widthExternal:"915px",heigth:"350px"};}
+{lvCN44.style.opacity=1.0;lvCN44.style.cursor="pointer";}}}}
+function lvCN51(lvCN04){var lvCN50=lvCN28();if(lvCN04.backgroundColorContent===undefined||lvCN04.backgroundColorContent===null){lvCN04.backgroundColorContent=lvCN50.backgroundColorContent;}
+if(lvCN04.backgroundColorExternal===undefined||lvCN04.backgroundColorExternal===null){lvCN04.backgroundColorExternal=lvCN50.backgroundColorExternal;}
+if(lvCN04.borderColorContent===undefined||lvCN04.borderColorContent===null){lvCN04.borderColorContent=lvCN50.borderColorContent;}
+if(lvCN04.imageArrowPrevious===undefined||lvCN04.imageArrowPrevious===null){lvCN04.imageArrowPrevious=lvCN50.imageArrowPrevious;}
+if(lvCN04.imageArrowNext===undefined||lvCN04.imageArrowNext===null){lvCN04.imageArrowNext=lvCN50.imageArrowNext;}
+if(lvCN04.imageArrowWidth===undefined||lvCN04.imageArrowWidth===null){lvCN04.imageArrowWidth=lvCN50.imageArrowWidth;}
+if(lvCN04.imageArrowHeight===undefined||lvCN04.imageArrowHeight===null){lvCN04.imageArrowHeight=lvCN50.imageArrowHeight;}
+if(lvCN04.elementItemHtml===undefined||lvCN04.elementItemHtml===null){lvCN04.elementItemHtml=lvCN50.elementItemHtml;}
+if(lvCN04.useExternalBorder===undefined||lvCN04.useExternalBorder===null){lvCN04.useExternalBorder=lvCN50.useExternalBorder;}
+if(lvCN04.useContentBorder===undefined||lvCN04.useContentBorder===null){lvCN04.useContentBorder=lvCN50.useContentBorder;}
+if(lvCN04.borderColorExternal===undefined||lvCN04.borderColorExternal===null){lvCN04.borderColorExternal=lvCN50.borderColorExternal;}
+if(lvCN04.borderColorContent===undefined||lvCN04.borderColorContent===null){lvCN04.borderColorContent=lvCN50.borderColorContent;}
+if(lvCN04.widthContent===undefined||lvCN04.widthContent===null){lvCN04.widthContent=lvCN50.widthContent;}
+if(lvCN04.widthExternal===undefined||lvCN04.widthExternal===null){lvCN04.widthExternal=lvCN50.widthExternal;}
+if(lvCN04.heigth===undefined||lvCN04.heigth===null){lvCN04.heigth=lvCN50.heigth;}}
+function lvCN28(){return{imageArrowPrevious:"images/previous.png",imageArrowNext:"images/next.png",imageArrowPreviousTitle:"Previous",imageArrowNextTitle:"Next",imageArrowWidth:"44px",imageArrowHeight:"40px",elementItemHtml:'span',useExternalBorder:true,useContentBorder:true,borderColorExternal:"DeepSkyBlue",borderColorContent:"DeepSkyBlue",backgroundColorContent:"none",backgroundColorExternal:"none",widthContent:"800px",widthExternal:"915px",heigth:"350px"};}
